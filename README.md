@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vinicius Tomacheusk El-Dine
 
-- 🎓 Estou cursando 6° período, de Engenharia de Software.
-- 🏫 Faculdade Centro Universitário Vale do Iguaçu (Uniguaçu).
+- 🎓 Estou cursando 7° período, de Engenharia de Software.
+- 🏫 Faculdade Ugv - Centro Universitário.
 - 📚 Estudando full stack.
 
 <div>
