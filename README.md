@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vinicius Tomacheusk El-Dine
 
-- 🎓 Estou cursando 7° período, de Engenharia de Software.
+- 🎓 Estou cursando 8° período, de Engenharia de Software.
 - 🏫 Faculdade Ugv - Centro Universitário.
 - 📚 Estudando JavaScript.
 
