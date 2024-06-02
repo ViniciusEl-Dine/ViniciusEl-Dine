@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Vinicius Tomacheusk El-Dine
 
-- 🎓 Estou cursando 8° período, de Engenharia de Software.
+- 🎓 Formado em Engenharia de Software.
 - 🏫 Faculdade Ugv - Centro Universitário.
-- 📚 Estudando JavaScript.
+- 📚 Front-end.
 
 <div>
   <a href="https://www.linkedin.com/in/vinicius-tomacheusk-el-dine-365996231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
